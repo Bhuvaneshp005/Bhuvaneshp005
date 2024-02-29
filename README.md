@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshp005" alt="bhuvaneshp005" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix**
+- 🔭 I’m currently working on **Netflix-clone/**
 
 - 🌱 I’m currently learning **Java Script**
 
