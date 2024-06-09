@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 All of my projects are available at [https://bhuvanesh005-portfolio.netlify.app/](https://bhuvanesh005-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhuvanesh-me.netlify.app/](https://bhuvanesh-me.netlify.app/)
 
 - 💬 Ask me about **Html,css,js,Bootstrap**
 
