@@ -15,8 +15,9 @@
 
 - 📫 How to reach me **bhuvaneshp6305@gmail.com**
 
-- 📄 Know about my experiences [I won 1st place in webdesigning event in inter-college competiton](I won 1st place in webdesigning event in inter-college competiton)
+- 📄 Know about my experiences [I won 1st place in webdesigning event in inter-college competiton]
 
+- Currently im working as Engineer - cloud and infra at LTIMindtree
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhuvanesh-p-4609aa249/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvanesh p" height="30" width="40" /></a>
